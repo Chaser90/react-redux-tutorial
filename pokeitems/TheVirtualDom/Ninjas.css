@@ -1,0 +1,20 @@
+body {
+    background: royalblue;
+    transition: all 1s;
+    color:cyan;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.ninjas form {
+    background: #fff;
+    padding: 20px;
+
+}
+
+button {
+    size:20;
+    font-weight: bold;
+    
+}
+
